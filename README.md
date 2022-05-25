@@ -5,13 +5,13 @@
 1. Terminal | OK
 2. Markdown | OK
 3. Git | OK
-### HTML_CSS
+#### HTML_CSS
 4. Semantics | OK
 5. V-Card | OK
 6. Responsive | Begin in Responsive
 7. Sunnyside | Begin in responsive
 8. Javascript | Algorithms / Distances
-### DOM 
+#### DOM 
 6. Introduction | OK
 7. Selectors | OK
 8. Create | OK
